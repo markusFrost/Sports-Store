@@ -1,0 +1,12 @@
+C:\Users\Андрей\Desktop\бвт\3 курс\Targetix\ASP.Net\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\Андрей\Desktop\бвт\3 курс\Targetix\ASP.Net\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Андрей\Desktop\бвт\3 курс\Targetix\ASP.Net\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\Андрей\Desktop\бвт\3 курс\Targetix\ASP.Net\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\Андрей\Desktop\бвт\3 курс\Targetix\ASP.Net\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Андрей\Desktop\бвт\3 курс\Targetix\ASP.Net\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Андрей\Desktop\бвт\3 курс\Targetix\ASP.Net\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Андрей\Desktop\бвт\3 курс\Targetix\ASP.Net\SportsStore\SportsStore.Domain\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Андрей\Desktop\бвт\3 курс\Targetix\ASP.Net\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+I:\бвт\3 курс\Targetix\ASP.Net\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+I:\бвт\3 курс\Targetix\ASP.Net\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+I:\бвт\3 курс\Targetix\ASP.Net\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
